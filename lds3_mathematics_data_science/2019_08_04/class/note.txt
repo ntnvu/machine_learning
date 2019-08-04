@@ -1,0 +1,2 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_regression.html
+https://scikit-learn.org/stable/glossary.html#term-random-state
